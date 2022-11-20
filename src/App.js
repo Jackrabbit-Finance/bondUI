@@ -7,9 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo512.png" />
         <div>
-        <h1> Liquidity Pools</h1>
-          <ul>USDC/DAI</ul>
-          <ul>USDC/WETH</ul>
+        <h1> Liquidity Pool (create a pool or add liqudity)</h1>
+          <ul>JRT ERC20- 0xd9145CCE52D386f254917e481eB44e9943F39138</ul>
+          <ul>JRT Factory- 0xf8e81D47203A594245E36C48e151709F0C19fBe8</ul>
+          <ul>JRT Pair- 0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8</ul>
         </div>
        
         <h1> Stake and Buy Bonds</h1>
